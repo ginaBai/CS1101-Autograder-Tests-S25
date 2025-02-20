@@ -1,0 +1,39 @@
+## Test 1 - Input
+```
+4
+FRFRFRFR
+FLFLFL
+BLBL
+BR
+
+```
+
+## Test 2 - Input
+```
+3
+FFF
+LLL
+FRBBLLFFRB
+
+```
+
+## Test 3 - Input
+```
+6
+RFRLFBLRRF
+RRBRFBRRRL
+FRRLRLBLFL
+FBFFRLBRFB
+BRRFBBLLRB
+LLFFBRBLFR
+
+```
+
+## Test 4 - Input
+```
+3
+FFFRR
+RFRFRF
+RRRFF
+
+```
