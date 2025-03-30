@@ -1,5 +1,9 @@
 # CS1101-Autograder-Tests
 
+## PA10 Test Cases
+- [PA10-A](./PA10/PA10-A.md)
+- [PA10-B](./PA10/PA10-B.md)
+
 ## PA09 Test Cases
 - [PA09-A](./PA09/PA09-A.md)
 - [PA09-B](./PA09/PA09-B.md)
